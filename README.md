@@ -6,6 +6,9 @@
 The **Apostate Platform** is a global, community-driven platform designed to provide a safe and supportive space for ex-Muslims and ex-religious individuals. The platform empowers users to share their stories, access help, and connect with others who understand their struggles. By leveraging blockchain technology and a reputation-based system, the platform ensures authenticity, security, and transparency.
 
 
+<img width="1381" alt="apostate-screenshot" src="https://github.com/user-attachments/assets/d0fecf60-7392-47fc-9bf3-2b1841988003" />
+
+
 
 ## Mission and Vision
 ### Mission
